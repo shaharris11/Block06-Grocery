@@ -1,0 +1,27 @@
+header {
+    color: plum;
+    text-align: center;
+    font-size: xx-large;
+}
+#sectionHeader {
+    background-color: lavender;
+    text-align: center;
+    font-size: larger;
+}
+#sectionItems {
+    display: inline-flex;
+}
+#img {
+    width: 200px;
+    height: 200px;
+    padding: 0% 10%;
+}
+#itemTable {
+    background-color: palevioletred;
+    margin-right: 25px;
+    padding: 0px;
+    width: 200px;
+    height: 200px;
+    border-style: groove;
+
+}
